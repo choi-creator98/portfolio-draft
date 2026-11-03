@@ -1,50 +1,23 @@
-
 <!-- MAIN BANNER -->
 <p align="center">
-  <img src="./assets/main.png"
-       alt="Yurim Choi Engineering Portfolio"
-       width="100%">
+<img src="./assets/main.png" alt="Yurim Choi Engineering Portfolio" width="100%">
 </p>
-
-<br>
 
 <!-- ABOUT ME -->
 <table width="100%">
-  <tr>
-    <td width="190" valign="middle" align="center">
-      <img src="./assets/profile.jpg"
-           alt="Yurim Choi"
-           width="165">
-    </td>
-    <td valign="middle">
-      <h2>
-        <img src="./assets/icon-about-me.png"
-             alt=""
-             width="28">
-        About Me
-      </h2>
-
-      <p>
-        <strong>
-          현장과 기술을 연결하고, 개발부터 운영까지 생각하는 엔지니어
-        </strong>
-      </p>
-
-      <blockquote>
-        <p>
-          병원 IT 환경에서 시스템 운영, 장애 대응,
-          사용자 요구사항 조율 및 기능 개선을 경험했으며,<br>
-          Backend 개발과 Cloud·Infrastructure 구축·배포까지
-          기술 영역을 확장해 왔습니다.
-        </p>
-        <p>
-          기술 자체보다 실제 문제를 해결하는 데 집중하며,
-          협업을 통해 요구사항과 설계 방향을 구체화하고
-          안정성·유지보수성·운영 효율성을 고려한 시스템을 지향합니다.
-        </p>
-      </blockquote>
-    </td>
-  </tr>
+<tr>
+<td width="20%" align="center" valign="middle">
+<img src="./assets/profile.jpg" alt="Yurim Choi Profile" width="175">
+</td>
+<td width="80%" valign="middle">
+<h3><img src="./assets/icon-about-me.png" alt="" width="27"> &nbsp;About Me</h3>
+<p><strong>현장과 기술을 연결하고, 개발부터 운영까지 생각하는 엔지니어</strong></p>
+<blockquote>
+<p>병원 IT 환경에서 시스템 운영, 장애 대응, 사용자 요구사항 조율 및 기능 개선을 경험했으며,<br>Backend 개발과 Cloud·Infrastructure 구축·배포까지 기술 영역을 확장해 왔습니다.</p>
+<p>기술 자체보다 실제 문제를 해결하는 데 집중하며, 협업을 통해 요구사항과 설계 방향을 구체화하고 안정성·유지보수성·운영 효율성을 고려한 시스템을 지향합니다.</p>
+</blockquote>
+</td>
+</tr>
 </table>
 
 
