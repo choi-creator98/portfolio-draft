@@ -10,25 +10,45 @@
 
 <br>
 
+
+
 <!-- ABOUT ME -->
-<img
-  src="./assets/profile.jpg"
-  alt="Yurim Choi Profile"
-  align="right"
-  width="150"
->
 
 ### About Me
 
-**현장과 기술을 연결하고, 개발부터 운영까지 생각하는 엔지니어**
+<blockquote>
+  <img
+    src="./assets/profile.jpg"
+    alt="Yurim Choi Profile"
+    align="left"
+    width="160"
+  >
 
-병원 IT 환경에서 시스템 운영, 장애 대응, 사용자 요구사항 조율 및 기능 개선을 경험했으며, Backend 개발과 Cloud·Infrastructure 구축·배포까지 기술 영역을 확장해 왔습니다.
+  <p>
+    <strong>
+      현장과 기술을 연결하고, 개발부터 운영까지 생각하는 엔지니어
+    </strong>
+  </p>
 
-기술 자체보다 실제 문제를 해결하는 데 집중하며, 협업을 통해 요구사항과 설계 방향을 구체화하고 안정성·유지보수성·운영 효율성을 고려한 시스템을 지향합니다.
+  <p>
+    병원 IT 환경에서 시스템 운영, 장애 대응,
+    사용자 요구사항 조율 및 기능 개선을 경험했으며,
+    Backend 개발과 Cloud·Infrastructure 구축·배포까지
+    기술 영역을 확장해 왔습니다.
+  </p>
 
-<br clear="right">
+  <p>
+    기술 자체보다 실제 문제를 해결하는 데 집중하며,
+    협업을 통해 요구사항과 설계 방향을 구체화하고
+    안정성·유지보수성·운영 효율성을 고려한
+    시스템을 지향합니다.
+  </p>
+
+  <br clear="all">
+</blockquote>
 
 ---
+
 
 ## <img src="./assets/icon-overview.png" alt="" width="22" height="22"> Quick Overview
 
