@@ -1,7 +1,7 @@
-<!-- MAIN BANNER -->
+<!-- MAIN BANNER: 이미지와 본문은 별도로 유지 -->
 <p align="center"><img src="./assets/main.png" alt="Yurim Choi Engineering Portfolio" width="100%"></p>
 
-<!-- ABOUT ME -->
+<!-- ABOUT ME: GitHub README에서 코드 블록으로 표시되지 않도록 표 내부의 빈 줄을 사용하지 않음 -->
 <table width="100%">
 <tr>
 <td width="20%" align="center" valign="middle">
@@ -38,11 +38,13 @@
 
 **AI 기반 뇌혈관질환 임상의사결정지원시스템(CDSS)**
 
-임상 Workflow, 의료영상 AI 분석, AI Assistant 및 의약품 안전성 검증을 통합한 3인 팀 프로젝트 (Aug–Oct 2026).
+의료진의 임상 Workflow에 의료영상 AI 분석, AI Assistant, 의약품 안전성 검증을 연결한 3인 팀 프로젝트입니다. 저는 Backend와 데이터베이스 연동, 클라우드 환경 구성 및 배포, 서비스 간 E2E 통합 검증을 담당했습니다.
 
-**My Role:** Backend Engineering · AI Service Integration · Database · Cloud Infrastructure · Operations
+- **Period:** Aug 2026 – Oct 2026
+- **Team:** 3 Members
+- **My Role:** Backend Engineering · AI Service Integration · Database · Cloud Infrastructure · Operations
 
-**[담당 구현 내용 · 기술 기여 · 코드 증빙 자세히 보기](./sections/featured-project.md)**
+**[BrainOn 구현 내용 · 엔지니어링 기여 · 코드 증빙 보기](./sections/featured-project.md)**
 
 ---
 
@@ -50,11 +52,37 @@
 
 <img src="./assets/accent-experience.png" alt="" width="270" height="6">
 
-- **(주)시마인포텍 | 오송 베스티안병원** — IT Infrastructure & System Operations · 1년 2개월
-- **익산병원 | 의료정보팀** — Healthcare IT Systems & Infrastructure Operations · 1년 9개월
-- **서울아산병원 | 정보의학과** — Medical Research & Project Coordination · 4개월
+| Organization | Position / Work | Period |
+| :--- | :--- | :--- |
+| **(주)시마인포텍 · 오송 베스티안병원** | IT Infrastructure & System Operations | 1년 2개월 |
+| **익산병원 · 의료정보팀** | Healthcare IT Systems & Infrastructure Operations | 1년 9개월 |
+| **서울아산병원 · 정보의학과** | Medical Research & Project Coordination | 4개월 |
 
-**[병원별 담당 업무 · 운영 및 협업 경험 자세히 보기](./sections/professional-experience.md)**
+**[기관별 담당 업무와 운영 경험 자세히 보기](./sections/professional-experience.md)**
+
+---
+
+## <img src="./assets/icon-education.png" alt="" width="22" height="22"> Education & Training
+
+<img src="./assets/accent-experience.png" alt="" width="270" height="6">
+
+| Institution / Program | Education & Training |
+| :--- | :--- |
+| **원광보건대학교** | 의무행정과 · 보건의료 분야 전공 |
+| **한국방송통신대학교** | 컴퓨터과학과 · 컴퓨터과학 관련 과목 수강 |
+| **국비지원 IT 개발 교육** | 6개월 과정 · Python · Django/DRF · Database · Linux · Docker · Cloud · AI |
+
+교육 과정의 마지막 8주는 **BrainOn CDSS** 팀 프로젝트로 진행했습니다. Backend 개발과 데이터베이스 연동뿐 아니라, 클라우드 인프라 구성·배포와 E2E 통합 검증까지 실제 서비스 흐름에 맞춰 작업했습니다.
+
+---
+
+## <img src="./assets/icon-certifications.png" alt="" width="22" height="22"> Certifications
+
+<img src="./assets/accent-experience.png" alt="" width="270" height="6">
+
+| Field | Certification |
+| :--- | :--- |
+| **Healthcare Information Management** | 보건의료정보관리사 |
 
 ---
 
@@ -64,7 +92,7 @@
 
 Cloud & Infrastructure · Backend Engineering · Database · AI Service Integration · Asynchronous Processing · Observability · Security & Operations
 
-**[기술 영역별 역량 및 사용 기술 자세히 보기](./sections/technical-competencies.md)**
+**[기술별 사용 경험과 상세 역량 보기](./sections/technical-competencies.md)**
 
 ---
 
