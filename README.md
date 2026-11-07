@@ -66,13 +66,11 @@
 
 <img src="./assets/accent-experience.png" alt="" width="270" height="6">
 
-| Institution / Program | Education & Training |
-| :--- | :--- |
-| **원광보건대학교** | 의무행정과 · 보건의료 분야 전공 |
-| **한국방송통신대학교** | 컴퓨터과학과 · 컴퓨터과학 관련 과목 수강 |
-| **국비지원 IT 개발 교육** | 6개월 과정 · Python · Django/DRF · Database · Linux · Docker · Cloud · AI |
-
-교육 과정의 마지막 8주는 **BrainOn CDSS** 팀 프로젝트로 진행했습니다. Backend 개발과 데이터베이스 연동뿐 아니라, 클라우드 인프라 구성·배포와 E2E 통합 검증까지 실제 서비스 흐름에 맞춰 작업했습니다.
+- **2026 · 6개월 과정** — 국비지원 IT 개발 교육 · Python, Django/DRF, Database, Linux, Docker, Cloud, AI
+  - 최종 8주간 3인 팀으로 **BrainOn CDSS** 프로젝트 수행 · Backend, Cloud Infrastructure, 서비스 배포 및 E2E 통합 검증 담당
+- **2025.03 – 현재** — **한국방송통신대학교** 컴퓨터과학과 재학
+- **2022.02** — **원광보건대학교** 의무행정학과 학사 졸업
+- **2021.02** — **원광보건대학교** 의무행정과 전문학사 졸업
 
 ---
 
@@ -80,9 +78,12 @@
 
 <img src="./assets/accent-experience.png" alt="" width="270" height="6">
 
-| Field | Certification |
-| :--- | :--- |
-| **Healthcare Information Management** | 보건의료정보관리사 |
+- **네트워크관리사 2급**
+- **보건의료정보관리사**
+- 병원행정사
+- 건강보험사
+- 영상정보관리사
+- 전산회계 2급
 
 ---
 
@@ -90,7 +91,29 @@
 
 <img src="./assets/accent-skills.png" alt="" width="270" height="6">
 
-Cloud & Infrastructure · Backend Engineering · Database · AI Service Integration · Asynchronous Processing · Observability · Security & Operations
+### Languages & Frameworks
+
+<img src="https://img.shields.io/badge/Python-466A8B?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Django-1D5B48?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/Django%20REST%20Framework-955662?style=for-the-badge" alt="Django REST Framework"> <img src="https://img.shields.io/badge/REST%20API-6E7680?style=for-the-badge" alt="REST API">
+
+### Database & Asynchronous Processing
+
+<img src="https://img.shields.io/badge/PostgreSQL-4E718C?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Cloud%20SQL-6585A2?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Cloud SQL"> <img src="https://img.shields.io/badge/RabbitMQ-C3794B?style=for-the-badge&amp;logo=rabbitmq&amp;logoColor=white" alt="RabbitMQ"> <img src="https://img.shields.io/badge/Celery-6A8A67?style=for-the-badge&amp;logo=celery&amp;logoColor=white" alt="Celery">
+
+### Cloud & Infrastructure
+
+<img src="https://img.shields.io/badge/Google%20Cloud-567D9A?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Google Cloud"> <img src="https://img.shields.io/badge/Cloud%20Run-6984A1?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Cloud Run"> <img src="https://img.shields.io/badge/Docker-478BAF?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-747474?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Linux">
+
+### AI & Service Integration
+
+<img src="https://img.shields.io/badge/Gemini-77709A?style=for-the-badge" alt="Gemini"> <img src="https://img.shields.io/badge/MCP-736D8D?style=for-the-badge" alt="MCP"> <img src="https://img.shields.io/badge/DUR%20OpenAPI-887B6E?style=for-the-badge" alt="DUR OpenAPI">
+
+### Observability & Operations
+
+<img src="https://img.shields.io/badge/Grafana-B87850?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Grafana"> <img src="https://img.shields.io/badge/Prometheus-B06C5A?style=for-the-badge&amp;logo=prometheus&amp;logoColor=white" alt="Prometheus"> <img src="https://img.shields.io/badge/Loki-8C7968?style=for-the-badge" alt="Loki"> <img src="https://img.shields.io/badge/Zabbix-A75E60?style=for-the-badge" alt="Zabbix">
+
+### Collaboration & Tools
+
+<img src="https://img.shields.io/badge/Git-B96D56?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-48515D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS%20Code-56859B?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code">
 
 **[기술별 사용 경험과 상세 역량 보기](./sections/technical-competencies.md)**
 
