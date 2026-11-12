@@ -1,7 +1,7 @@
 <!-- MAIN BANNER: 이미지와 본문은 별도로 유지 -->
 <p align="center"><img src="./assets/main.png" alt="Yurim Choi Engineering Portfolio" width="100%"></p>
 
-<!-- ABOUT ME: GitHub README에서 코드 블록으로 표시되지 않도록 표 내부의 빈 줄을 사용하지 않음 -->
+<!-- ABOUT ME-->
 <table width="100%">
 <tr>
 <td width="20%" align="center" valign="middle">
