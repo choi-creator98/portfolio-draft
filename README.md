@@ -29,6 +29,16 @@
 | <img src="./assets/icon-background.png" alt="" width="17" height="17"> **Professional Background** | [Healthcare IT Operations (약 3년)](./sections/professional-experience.md) |
 
 ---
+## <img src="./assets/icon-education.png" alt="" width="22" height="22"> Education & Training
+
+<img src="./assets/accent-experience.png" alt="" width="270" height="6">
+
+- **2026.03 – 2026.10** — 건양대학교병원 바이오메디컬 인공지능 5기 · 수료
+- **2025.09 – 현재** — **한국방송통신대학교** 컴퓨터과학과 · 휴학 중
+- **2021.03 – 2022.02** — **원광보건대학교** 의무행정학과 · 학사 졸업
+- **2017.03 – 2021.02** — **원광보건대학교** 의무행정과 · 전문학사 졸업
+
+---
 
 ## <img src="./assets/icon-featured.png" alt="" width="22" height="22"> Featured Project
 
@@ -38,13 +48,13 @@
 
 **AI 기반 뇌혈관질환 임상의사결정지원시스템(CDSS)**
 
-의료진의 임상 Workflow에 의료영상 AI 분석, AI Assistant, 의약품 안전성 검증을 연결한 3인 팀 프로젝트입니다. 저는 Backend와 데이터베이스 연동, 클라우드 환경 구성 및 배포, 서비스 간 E2E 통합 검증을 담당했습니다.
+의료진의 임상 Workflow에 의료영상 AI 분석, AI Assistant, 의약품 안전성 검증을 통합한 의료 AI 서비스 개발 프로젝트
 
 - **Period:** Aug 2026 – Oct 2026
 - **Team:** 3 Members
-- **My Role:** Backend Engineering · AI Service Integration · Database · Cloud Infrastructure · Operations
+- **My Role:** Backend 개발·데이터베이스 연동, AI 서비스 연계, Cloud Infrastructure 구성·배포 및 E2E 통합 검증
 
-**[BrainOn 구현 내용 · 엔지니어링 기여 · 코드 증빙 보기](./sections/featured-project.md)**
+  **[BrainOn 구현 내용 · 엔지니어링 기여 · 코드 증빙](./sections/featured-project.md)**
 
 ---
 
@@ -52,27 +62,16 @@
 
 <img src="./assets/accent-experience.png" alt="" width="270" height="6">
 
+**[↗ 기관별 담당 업무와 운영 경험 자세히 보기](./sections/professional-experience.md)**
+
 | Organization | Position / Work | Period |
 | :--- | :--- | :--- |
 | **(주)시마인포텍 · 오송 베스티안병원** | IT Infrastructure & System Operations | 1년 2개월 |
 | **익산병원 · 의료정보팀** | Healthcare IT Systems & Infrastructure Operations | 1년 9개월 |
 | **서울아산병원 · 정보의학과** | Medical Research & Project Coordination | 4개월 |
 
-**[기관별 담당 업무와 운영 경험 자세히 보기](./sections/professional-experience.md)**
-
 ---
 
-## <img src="./assets/icon-education.png" alt="" width="22" height="22"> Education & Training
-
-<img src="./assets/accent-experience.png" alt="" width="270" height="6">
-
-- **2026 · 6개월 과정** — 국비지원 IT 개발 교육 · Python, Django/DRF, Database, Linux, Docker, Cloud, AI
-  - 최종 8주간 3인 팀으로 **BrainOn CDSS** 프로젝트 수행 · Backend, Cloud Infrastructure, 서비스 배포 및 E2E 통합 검증 담당
-- **2025.03 – 현재** — **한국방송통신대학교** 컴퓨터과학과 재학
-- **2022.02** — **원광보건대학교** 의무행정학과 학사 졸업
-- **2021.02** — **원광보건대학교** 의무행정과 전문학사 졸업
-
----
 
 ## <img src="./assets/icon-certifications.png" alt="" width="22" height="22"> Certifications
 
@@ -85,12 +84,13 @@
 - **2025.09** — 영상정보관리사
 - **2018.10** — 전산회계 2급
 
-
 ---
 
 ## <img src="./assets/icon-skills.png" alt="" width="22" height="22"> Technical Competencies
 
 <img src="./assets/accent-skills.png" alt="" width="270" height="6">
+
+**[↗ 기술별 사용 경험과 상세 역량 보기](./sections/technical-competencies.md)**
 
 ### Languages & Frameworks
 
@@ -116,7 +116,7 @@
 
 <img src="https://img.shields.io/badge/Git-B96D56?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-48515D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS%20Code-56859B?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code">
 
-**[기술별 사용 경험과 상세 역량 보기](./sections/technical-competencies.md)**
+
 
 ---
 
