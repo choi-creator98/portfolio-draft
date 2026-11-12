@@ -85,12 +85,11 @@
 - **2018.10** — 전산회계 2급
 
 ---
-
+<!-- 기술 역량 상세 보기 -->
 ## <img src="./assets/icon-skills.png" alt="" width="22" height="22"> Technical Competencies
 
 <img src="./assets/accent-skills.png" alt="" width="270" height="6">
-
-**[↗ 기술별 사용 경험과 상세 역량 보기](./sections/technical-competencies.md)**
+[![기술 역량 상세 보기](https://img.shields.io/badge/%E2%86%97_%EC%83%81%EC%84%B8_%EB%B3%B4%EA%B8%B0-9D806F?style=flat-square)](./sections/technical-competencies.md)
 
 ### Languages & Frameworks
 
