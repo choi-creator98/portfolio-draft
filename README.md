@@ -86,9 +86,9 @@
 
 ---
 <!-- 기술 역량 상세 보기 -->
-## <img src="./assets/icon-skills.png" alt="" width="22" height="22"> Technical Competencies
+## <img src="./assets/icon-skills-beige.png" alt="" width="22" height="22"> Technical Competencies
 
-<img src="./assets/accent-skills.png" alt="" width="270" height="6">
+<img src="./assets/accent-skills-beige.png" alt="" width="270" height="6">
 
 <a href="./sections/technical-competencies.md"><img src="https://img.shields.io/badge/%E2%86%97-%EC%83%81%EC%84%B8%20%EB%B3%B4%EA%B8%B0-9D806F?style=flat-square" alt="기술 역량 상세 보기"></a>
 
